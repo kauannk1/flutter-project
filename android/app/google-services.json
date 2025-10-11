@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272584460273",
+    "project_id": "portal-aluno-fatec",
+    "storage_bucket": "portal-aluno-fatec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272584460273:android:b00dd39aa643544bc6a650",
+        "android_client_info": {
+          "package_name": "com.example.portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqka2KTn0PIPAhPL43RTp1qj2WhdJDZiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

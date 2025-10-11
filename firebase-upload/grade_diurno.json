@@ -1,0 +1,77 @@
+{
+  "curso": "Análise e Desenvolvimento de Sistemas",
+  "ano": 2025,
+  "turno": "diurno",
+  "disciplinas": {
+    "semestre1": [
+      {
+        "id": "algLogProg",
+        "nome": "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+        "professor": "LUCAS B.",
+        "sala": "L1/S12 (1 Andar/2 Andar)",
+        "diaSemana": 2,
+        "horaInicio": "08:30",
+        "horaFim": "11:10"
+      },
+      {
+        "id": "progMI",
+        "nome": "PROGRAMAÇÃO M I",
+        "professor": "GERALDO",
+        "sala": "L1/ (1 Andar)",
+        "diaSemana": 3,
+        "horaInicio": "09:30",
+        "horaFim": "13:00"
+      },
+      {
+        "id": "ingles",
+        "nome": "INGLÊS I",
+        "professor": "ANNA",
+        "sala": "S20 (3 Andar)",
+        "diaSemana": 4,
+        "horaInicio": "07:40",
+        "horaFim": "09:20"
+      },
+      {
+        "id": "admGeral",
+        "nome": "ADMINISTRAÇÃO GERAL",
+        "professor": "SUZANA",
+        "sala": "S11 (2 Andar)",
+        "diaSemana": 4,
+        "horaInicio": "09:30",
+        "horaFim": "13:00"
+      },
+      {
+        "id": "matDis",
+        "nome": "MATEMÁTICA DISCRETA",
+        "professor": "JÚNIOR",
+        "sala": "S22 (3 Andar)",
+        "diaSemana": 5,
+        "horaInicio": "09:30",
+        "horaFim": "13:00"
+      },
+      {
+        "id": "labHard",
+        "nome": "LABORATÓRIO DE HARDWARE",
+        "professor": "CARLOS E.",
+        "sala": "S20 (3 Andar)",
+        "diaSemana": 6,
+        "horaInicio": "07:40",
+        "horaFim": "09:20"
+      },
+      {
+        "id": "aoComp",
+        "nome": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+        "professor": "CARLOS E.",
+        "sala": "S16 (2 Andar)",
+        "diaSemana": 6,
+        "horaInicio": "09:30",
+        "horaFim": "13:00"
+      }
+    ],
+    "semestre2": [],
+    "semestre3": [],
+    "semestre4": [],
+    "semestre5": [],
+    "semestre6": []
+  }
+}
