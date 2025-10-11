@@ -65,7 +65,7 @@ O projeto já está em um estágio intermediário, com integração completa com
     ```
 2.  **Entre na pasta do projeto:**
     ```sh
-    cd nome-do-repositorio
+    cd flutter-project
     ```
 3.  **Instale as dependências:**
     ```sh
