@@ -8,15 +8,15 @@
 
 ## ✒️ Sobre o Projeto
 
-Este é um aplicativo multiplataforma desenvolvido como projeto prático para a faculdade. O objetivo é criar um portal acadêmico funcional para alunos e professores, inspirado em uma versão web existente.
+Este é um aplicativo multiplataforma desenvolvido como projeto prático para a faculdade. O objetivo é criar um portal acadêmico funcional para alunos e professores.
 
-O projeto já está em um estágio avançado, com integração completa com o **Firebase** para autenticação de usuários e armazenamento de dados em tempo real no Firestore. No entanto, o aplicativo ainda está incompleto e em constante desenvolvimento.
+O projeto já está em um estágio intermediário, com integração completa com o **Firebase** para autenticação de usuários e armazenamento de dados em tempo real no Firestore. No entanto, o aplicativo ainda está incompleto e em constante desenvolvimento.
 
 ---
 
 ### **Autor**
 
-* **Nome:** Kauan Sena
+* **Nome:** Kauan Rafael Silva Sena
 * **RA:** 2840482523040
 * **Curso:** Análise e Desenvolvimento de Sistemas
 * **Semestre:** 4º Semestre - Noturno
@@ -61,7 +61,7 @@ O projeto já está em um estágio avançado, com integração completa com o **
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone https://github.com/kauannk1/flutter-project.git
     ```
 2.  **Entre na pasta do projeto:**
     ```sh
